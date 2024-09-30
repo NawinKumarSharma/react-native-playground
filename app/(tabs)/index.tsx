@@ -19,11 +19,11 @@ function Library() {
 }
 function Liked() {
     return <View>
-        <Text>library</Text>
+        <Text>Liked</Text>
     </View>
 }
 function Suggested() {
     return <View>
-        <Text>library</Text>
+        <Text>Suggesed</Text>
     </View>
 }
